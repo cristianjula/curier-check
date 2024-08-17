@@ -1,0 +1,1 @@
+div[id^="curiero_"][id$="_metabox"] p{display:flex;justify-content:space-between;width:100%;}div[id^="curiero_"][id$="_metabox"] .secondary_button{border-color:#f44336!important;color:#f44336!important}div[id^="curiero_"][id$="_metabox"] .secondary_button:focus{box-shadow:0 0 0 1px #f44336!important}
